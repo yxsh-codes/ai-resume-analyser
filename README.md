@@ -1,6 +1,8 @@
 # AI Resume Analyser & Interview Preparation Platform
 
-An AI-powered web application that helps users optimize their resumes, analyze job descriptions, and prepare for interviews through intelligent feedback and personalized interview experiences.
+> This project is based on an open-source tutorial and has been adapted and constantly being enhanced by me to deepen my understanding of full-stack development, AI integration, and software engineering practices.
+
+>An AI-powered web application that helps users optimize their resumes, analyze job descriptions, and prepare for interviews through intelligent feedback and personalized interview experiences.
 
 ## Features
 
