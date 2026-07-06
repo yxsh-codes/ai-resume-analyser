@@ -2,6 +2,7 @@ import { useAuth } from "../hooks/useAuth";
 import { Navigate } from "react-router";
 import React from 'react'
 
+
 const Protected = ({children}) => {
     const { loading,user } = useAuth()
 
